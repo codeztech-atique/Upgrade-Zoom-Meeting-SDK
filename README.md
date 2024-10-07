@@ -23,7 +23,7 @@ Before setting up the project, ensure that you have the following:
 - **Xcode** (for macOS users): Ensure Xcode is installed and the license is accepted:
    ```bash
    sudo xcodebuild -license
-
+   ```
 
 ## Installation
 
@@ -47,8 +47,10 @@ Configure the application with your Zoom SDK credentials:
 
 js/index.js
 
+```bash
 var CLIENT_ID = "";
 var CLIENT_SECRET = "";
+```
 
 
 ## Additional Resources
